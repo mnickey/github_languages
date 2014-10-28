@@ -1,7 +1,7 @@
 """
 add a seperate file in secret.py with your username and password.
 Then import your file using
-	from secret import USERNAME, PASSWORD
+	from secret import USERNAME, PASSWORD 
 
 Example of secret.py:
 USERNAME = "user@example.com"
